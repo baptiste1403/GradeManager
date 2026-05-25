@@ -1,6 +1,5 @@
 using System.Text;
 using GradeManager.Data;
-using GradeManager.Migrations;
 using GradeManager.Models;
 using GradeManager.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
